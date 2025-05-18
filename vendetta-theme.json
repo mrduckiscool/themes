@@ -1,72 +1,79 @@
 {
-    "name": "V for Vendetta Blue",
-    "description": "A cozy blue theme inspired by V for Vendetta, bringing serenity and mystery to your Discord experience.",
+    "name": "V for Vendetta",
+    "description": "Remember, remember the fifth of November. A theme that brings the mysterious and powerful aesthetic of V for Vendetta to your Discord experience.",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Theme Creator",
             "id": "000000000000000000"
         }
     ],
+    "authorId": "000000000000000000",
+    "authorLink": "https://github.com/yourusername",
+    "source": "https://github.com/yourusername/vendetta-theme",
+    "website": "https://github.com/yourusername/vendetta-theme",
+    "donate": "https://github.com/yourusername/vendetta-theme",
+    "invite": "your-invite-code",
     "semanticColors": {
         "BACKGROUND_PRIMARY": [
+            "#0a0a0a",
+            "#0a0a0a",
+            "#0a0a0a"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#1a1a1a",
+            "#1a1a1a",
+            "#1a1a1a"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#0f0f0f",
+            "#0f0f0f",
+            "#0f0f0f"
+        ],
+        "BACKGROUND_ACCENT": [
             "#1a365d",
             "#1a365d",
             "#1a365d"
         ],
-        "BACKGROUND_SECONDARY": [
-            "#2c5282",
-            "#2c5282",
-            "#2c5282"
-        ],
-        "BACKGROUND_TERTIARY": [
-            "#0f2942",
-            "#0f2942",
-            "#0f2942"
-        ],
-        "BACKGROUND_ACCENT": [
-            "#4299e1",
-            "#4299e1",
-            "#4299e1"
-        ],
         "BACKGROUND_FLOATING": [
-            "#2c5282",
-            "#2c5282",
-            "#2c5282"
+            "#1a1a1a",
+            "#1a1a1a",
+            "#1a1a1a"
         ],
         "BACKGROUND_MENTIONED": [
-            "#4299e126",
-            "#4299e126",
-            "#4299e126"
+            "#1a365d26",
+            "#1a365d26",
+            "#1a365d26"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#4299e133",
-            "#4299e133",
-            "#4299e133"
+            "#1a365d33",
+            "#1a365d33",
+            "#1a365d33"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#4299e126",
-            "#4299e126",
-            "#4299e126"
+            "#1a365d26",
+            "#1a365d26",
+            "#1a365d26"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#4299e17a",
-            "#4299e17a",
-            "#4299e17a"
+            "#1a365d7a",
+            "#1a365d7a",
+            "#1a365d7a"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#4299e126",
-            "#4299e126",
-            "#4299e126"
+            "#1a365d26",
+            "#1a365d26",
+            "#1a365d26"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#4299e126",
-            "#4299e126",
-            "#4299e126"
+            "#1a365d26",
+            "#1a365d26",
+            "#1a365d26"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#4299e199",
-            "#4299e199",
-            "#4299e199"
+            "#1a365d99",
+            "#1a365d99",
+            "#1a365d99"
         ],
         "CHANNELS_DEFAULT": [
             "#ebf8ff",
@@ -94,9 +101,9 @@
             "#4299e1"
         ],
         "INTERACTIVE_HOVER": [
-            "#4299e1",
-            "#4299e1",
-            "#4299e1"
+            "#2c5282",
+            "#2c5282",
+            "#2c5282"
         ],
         "INTERACTIVE_NORMAL": [
             "#ebf8ff",
@@ -147,6 +154,56 @@
             "#e53e3e",
             "#e53e3e",
             "#e53e3e"
+        ],
+        "ACTIVITY_CARD_BACKGROUND": [
+            "#1a1a1a",
+            "#1a1a1a",
+            "#1a1a1a"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#0a0a0a",
+            "#0a0a0a",
+            "#0a0a0a"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#1a1a1a",
+            "#1a1a1a",
+            "#1a1a1a"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#1a1a1a",
+            "#1a1a1a",
+            "#1a1a1a"
+        ],
+        "INPUT_BACKGROUND": [
+            "#1a1a1a",
+            "#1a1a1a",
+            "#1a1a1a"
+        ],
+        "MODAL_FOOTER_BACKGROUND": [
+            "#1a1a1a",
+            "#1a1a1a",
+            "#1a1a1a"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#1a365d",
+            "#1a365d",
+            "#1a365d"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#0a0a0a",
+            "#0a0a0a",
+            "#0a0a0a"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#1a365d",
+            "#1a365d",
+            "#1a365d"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "#0a0a0a",
+            "#0a0a0a",
+            "#0a0a0a"
         ]
     },
     "rawColors": {
@@ -160,10 +217,38 @@
         "BRAND_600": "#1a365d",
         "WHITE_500": "#f7fafc",
         "GOLD_300": "#d69e2e",
-        "RED_400": "#e53e3e"
+        "RED_400": "#e53e3e",
+        "BLACK_500": "#0a0a0a",
+        "BLACK_600": "#1a1a1a",
+        "BLACK_700": "#0f0f0f"
     },
     "background": {
         "url": "https://i.imgur.com/example.jpg"
+    },
+    "plus": {
+        "version": 0,
+        "customOverlays": true,
+        "icons": {
+            "ic_mic_neutral": "#4299e1",
+            "ic_mic_muted_neutral": "#e53e3e",
+            "ic_soundboard": "#4299e1",
+            "ic_soundboard_muted": "#e53e3e",
+            "ic_video": "#4299e1",
+            "ic_video_disabled": "#e53e3e"
+        }
+    },
+    "cssVariables": {
+        "--vendetta-bg": "url(https://i.imgur.com/example.jpg)",
+        "--vendetta-home-icon": "url(https://i.imgur.com/example.png)",
+        "--vendetta-color1": "#4299e1",
+        "--vendetta-color2": "#1a365d",
+        "--vendetta-color3": "#2c5282",
+        "--watermark-filter-invert": "0%",
+        "--watermark-filter-sepia": "50%",
+        "--watermark-filter-saturate": "3000%",
+        "--watermark-filter-hue-rotate": "150deg",
+        "--watermark-filter-brightness": "100%",
+        "--watermark-filter-contrast": "200%"
     },
     "spec": 2
 } 
