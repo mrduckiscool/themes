@@ -1,0 +1,169 @@
+{
+    "name": "V for Vendetta Blue",
+    "description": "A cozy blue theme inspired by V for Vendetta, bringing serenity and mystery to your Discord experience.",
+    "authors": [
+        {
+            "name": "Theme Creator",
+            "id": "000000000000000000"
+        }
+    ],
+    "semanticColors": {
+        "BACKGROUND_PRIMARY": [
+            "#1a365d",
+            "#1a365d",
+            "#1a365d"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#2c5282",
+            "#2c5282",
+            "#2c5282"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#0f2942",
+            "#0f2942",
+            "#0f2942"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#4299e1",
+            "#4299e1",
+            "#4299e1"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#2c5282",
+            "#2c5282",
+            "#2c5282"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#4299e126",
+            "#4299e126",
+            "#4299e126"
+        ],
+        "BACKGROUND_MENTIONED_HOVER": [
+            "#4299e133",
+            "#4299e133",
+            "#4299e133"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#4299e126",
+            "#4299e126",
+            "#4299e126"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#4299e17a",
+            "#4299e17a",
+            "#4299e17a"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#4299e126",
+            "#4299e126",
+            "#4299e126"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#4299e126",
+            "#4299e126",
+            "#4299e126"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#4299e199",
+            "#4299e199",
+            "#4299e199"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#ebf8ff",
+            "#ebf8ff",
+            "#ebf8ff"
+        ],
+        "CHANNEL_ICON": [
+            "#4299e14d",
+            "#4299e14d",
+            "#4299e14d"
+        ],
+        "HEADER_PRIMARY": [
+            "#f7fafc",
+            "#f7fafc",
+            "#f7fafc"
+        ],
+        "HEADER_SECONDARY": [
+            "#a0aec0",
+            "#a0aec0",
+            "#a0aec0"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#4299e1",
+            "#4299e1",
+            "#4299e1"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#4299e1",
+            "#4299e1",
+            "#4299e1"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#ebf8ff",
+            "#ebf8ff",
+            "#ebf8ff"
+        ],
+        "TEXT_NORMAL": [
+            "#f7fafc",
+            "#f7fafc",
+            "#f7fafc"
+        ],
+        "TEXT_MUTED": [
+            "#a0aec0",
+            "#a0aec0",
+            "#a0aec0"
+        ],
+        "TEXT_LINK": [
+            "#4299e1",
+            "#4299e1",
+            "#4299e1"
+        ],
+        "TEXT_POSITIVE": [
+            "#d69e2e",
+            "#d69e2e",
+            "#d69e2e"
+        ],
+        "TEXT_WARNING": [
+            "#e53e3e",
+            "#e53e3e",
+            "#e53e3e"
+        ],
+        "TEXT_DANGER": [
+            "#e53e3e",
+            "#e53e3e",
+            "#e53e3e"
+        ],
+        "STATUS_POSITIVE_BACKGROUND": [
+            "#d69e2e",
+            "#d69e2e",
+            "#d69e2e"
+        ],
+        "STATUS_WARNING_BACKGROUND": [
+            "#e53e3e",
+            "#e53e3e",
+            "#e53e3e"
+        ],
+        "STATUS_DANGER_BACKGROUND": [
+            "#e53e3e",
+            "#e53e3e",
+            "#e53e3e"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#ebf8ff",
+        "PRIMARY_200": "#4299e1",
+        "PRIMARY_300": "#2c5282",
+        "PRIMARY_400": "#1a365d",
+        "PRIMARY_500": "#0f2942",
+        "BRAND_500": "#4299e1",
+        "BRAND_560": "#2c5282",
+        "BRAND_600": "#1a365d",
+        "WHITE_500": "#f7fafc",
+        "GOLD_300": "#d69e2e",
+        "RED_400": "#e53e3e"
+    },
+    "background": {
+        "url": "https://i.imgur.com/example.jpg"
+    },
+    "spec": 2
+} 
